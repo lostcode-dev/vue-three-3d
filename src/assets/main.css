@@ -1,3 +1,9 @@
 body {
   margin: 0px;
 }
+
+.three-scene-container {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
